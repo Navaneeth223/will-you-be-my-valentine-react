@@ -31,8 +31,8 @@ The app features a **Generator** to create personalized links, a **Question Page
 
 1.  **Clone the repository** (or download source):
     ```bash
-    git clone https://github.com/yourusername/valentine-app.git
-    cd valentine-app
+    git clone https://github.com/Navaneeth223/will-you-be-my-valentine-react.git
+    cd will-you-be-my-valentine-react
     ```
 
 2.  **Install dependencies**:
