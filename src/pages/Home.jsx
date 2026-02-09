@@ -203,7 +203,8 @@ const Home = () => {
                             </div>
                         </div>
                     )}
-                </div>
+                </div><br />
+                <h5 className="text-center text-xs text-gray-500 mb-2">Created by ❤️ Navaneeth</h5>
             </div>
         </div>
     );
