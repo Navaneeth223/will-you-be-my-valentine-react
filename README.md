@@ -17,7 +17,7 @@ The app features a **Generator** to create personalized links, a **Question Page
 
 
 ![Valentine App Home Page Preview](./src/assets/Home.png)
-![Valentine App Valentine Page Preview](./src/assets/valentine.png)
+![Valentine App Valentine Page Preview](./src/assets/Valentine.png)
 
 
 
