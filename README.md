@@ -16,7 +16,11 @@ The app features a **Generator** to create personalized links, a **Question Page
 👉 https://valentine-blue-beta.vercel.app/
 
 
-![Valentine App Preview](./src/assets/image.png)
+![Valentine App Home Page Preview](./src/assets/Home.png)
+![Valentine App Valentine Page Preview](./src/assets/valentine.png)
+
+
+
 
 
 ## ✨ Features
